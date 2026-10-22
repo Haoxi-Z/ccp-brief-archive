@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>CCP 日报归档</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700&family=Noto+Sans+SC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a settlement-ledger timeline — sticky filter bar, then one dated "value day" block per brief, newest first */
+:root{
+  --bg:#F4F6F5; --surface:#FFFFFF; --ink:#14222F; --muted:#5B6A73; --line:#D9E0DE;
+  --accent:#0E6E62; --accent-soft:#E1F0EC; --flag:#9A5B00; --flag-soft:#FBF0DD;
+  --reg:#2E5A88; --fmi:#0E6E62; --assoc:#6C4F8E;
+  --f-display:"Noto Serif SC","Songti SC",Georgia,serif;
+  --f-body:"Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0F1619; --surface:#162026; --ink:#E4EBEA; --muted:#93A3A8; --line:#26343A;
+  --accent:#4FC2AE; --accent-soft:#17312D; --flag:#E9B25C; --flag-soft:#33281A;
+  --reg:#7FA9D6; --fmi:#4FC2AE; --assoc:#B79BDB; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0F1619; --surface:#162026; --ink:#E4EBEA; --muted:#93A3A8; --line:#26343A;
+  --accent:#4FC2AE; --accent-soft:#17312D; --flag:#E9B25C; --flag-soft:#33281A;
+  --reg:#7FA9D6; --fmi:#4FC2AE; --assoc:#B79BDB; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.6}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px}
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;padding-bottom:18px;border-bottom:2px solid var(--ink)}
+h1{font-family:var(--f-display);font-size:30px;line-height:1.2;margin:0;text-wrap:balance;letter-spacing:.02em}
+.sub{color:var(--muted);font-size:13px;margin:4px 0 0}
+.stats{display:flex;gap:20px;font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.stats b{display:block;font-size:20px;color:var(--ink);font-weight:500;font-variant-numeric:tabular-nums}
+.filters{position:sticky;top:0;z-index:5;background:var(--bg);padding-block:14px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:10px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.row label.lbl{font-size:11px;letter-spacing:.08em;color:var(--muted);min-width:3.5em}
+input[type=search],select,input[type=date]{font:inherit;font-size:14px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:7px 10px;min-width:0}
+input[type=search]{flex:1 1 220px}
+.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:4px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,input:focus-visible,select:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.reset{font:inherit;font-size:13px;background:none;border:none;color:var(--accent);cursor:pointer;padding:4px 6px}
+#list{display:flex;flex-direction:column;gap:34px;margin-top:26px}
+.day{display:grid;grid-template-columns:118px minmax(0,1fr);gap:0 22px}
+.date{font-family:var(--f-mono);font-size:13px;color:var(--muted);padding-top:3px;border-top:1px solid var(--ink)}
+.date .d{display:block;font-size:22px;color:var(--ink);font-weight:500;font-variant-numeric:tabular-nums;line-height:1.3}
+.body{border-top:1px solid var(--line);padding-top:4px;min-width:0}
+.headline{font-family:var(--f-display);font-size:18px;line-height:1.5;margin:0 0 12px;text-wrap:balance}
+.grp{margin-top:14px}
+.grp h3{font-size:12px;letter-spacing:.1em;margin:0 0 6px;display:flex;align-items:center;gap:8px;color:var(--muted);font-weight:500}
+.grp h3::before{content:"";width:8px;height:8px;border-radius:2px;background:var(--c)}
+.empty-grp{font-size:13px;color:var(--muted);margin:0}
+.item{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--c);border-radius:4px;padding:12px 14px;margin-top:8px}
+.item h4{font-size:15.5px;margin:0 0 4px;line-height:1.45}
+.meta{font-family:var(--f-mono);font-size:12px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px}
+.item p{margin:6px 0 0;font-size:14px;max-width:68ch}
+.item a{color:var(--accent);word-break:break-all;font-size:13px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.tag{font-size:11.5px;background:var(--accent-soft);color:var(--accent);border-radius:3px;padding:1px 7px}
+.focus{margin-top:8px;background:var(--flag-soft);color:var(--ink);border-radius:4px;padding:6px 10px;font-size:13.5px}
+.focus b{color:var(--flag)}
+.note{font-size:13px;color:var(--muted);margin:10px 0 0}
+.state{padding:40px 0;color:var(--muted);text-align:center}
+@media (max-width:620px){.day{grid-template-columns:1fr}.date{display:flex;gap:10px;align-items:baseline;padding-bottom:6px}.body{border-top:none}h1{font-size:25px}}
+@media (prefers-reduced-motion:no-preference){.item{transition:border-color .15s}}
+</style>
+<style>body{margin:0}</style>
+</head>
+<body>
+
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>CCP 日报归档</h1>
+      <p class="sub">中央对手清算 · 监管动态 · 每日自动追加，最新在上 · 更新于 <!--UPDATED-->2026-10-22 15:19<!--/UPDATED--></p>
+    </div>
+    <div class="stats" aria-live="polite">
+      <span><b id="sDays">–</b>期简报</span>
+      <span><b id="sItems">–</b>条动态</span>
+      <span><b id="sFocus">–</b>条关注点</span>
+    </div>
+  </header>
+
+  <div class="filters" role="search">
+    <div class="row">
+      <input id="q" type="search" placeholder="搜索标题、要点、机构（如 EMIR、互换通、FICC）" aria-label="关键词搜索">
+      <select id="org" aria-label="机构"><option value="">全部机构</option></select>
+    </div>
+    <div class="row" id="groupRow"><label class="lbl">分组</label></div>
+    <div class="row" id="topicRow"><label class="lbl">议题</label></div>
+    <div class="row">
+      <label class="lbl" for="from">日期</label>
+      <input id="from" type="date" aria-label="起始日期"> <span style="color:var(--muted)">至</span>
+      <input id="to" type="date" aria-label="结束日期">
+      <button class="chip" id="onlyFocus" aria-pressed="false">只看有关注点</button>
+      <button class="reset" id="reset">清除筛选</button>
+    </div>
+  </div>
+
+  <div id="list"></div>
+</div>
+
+<script>
+const GROUPS=[["reg","监管机构","--reg"],["fmi","金融基础设施","--fmi"],["assoc","行业协会","--assoc"]];
+const TOPICS=["第三国认可/等效","EMIR 3.0","美债清算","保证金/压力测试","恢复与处置","PFMI/披露","互联互通","交易报告","运营/违约事件","其他"];
+const st={q:"",org:"",groups:new Set(),topics:new Set(),from:"",to:"",focus:false};
+let briefs=[];
+const $=id=>document.getElementById(id);
+function el(tag,cls,txt){const e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
+
+GROUPS.forEach(([k,label])=>{const b=el("button","chip",label);b.setAttribute("aria-pressed","false");b.onclick=()=>{toggle(st.groups,k);b.setAttribute("aria-pressed",st.groups.has(k));render()};$("groupRow").append(b)});
+TOPICS.forEach(t=>{const b=el("button","chip",t);b.setAttribute("aria-pressed","false");b.dataset.t=t;b.onclick=()=>{toggle(st.topics,t);b.setAttribute("aria-pressed",st.topics.has(t));render()};$("topicRow").append(b)});
+function toggle(s,v){s.has(v)?s.delete(v):s.add(v)}
+$("q").oninput=e=>{st.q=e.target.value.trim().toLowerCase();render()};
+$("org").onchange=e=>{st.org=e.target.value;render()};
+$("from").onchange=e=>{st.from=e.target.value;render()};
+$("to").onchange=e=>{st.to=e.target.value;render()};
+$("onlyFocus").onclick=e=>{st.focus=!st.focus;e.target.setAttribute("aria-pressed",st.focus);render()};
+$("reset").onclick=()=>{Object.assign(st,{q:"",org:"",from:"",to:"",focus:false});st.groups.clear();st.topics.clear();
+  $("q").value="";$("org").value="";$("from").value="";$("to").value="";
+  document.querySelectorAll(".filters .chip").forEach(c=>c.setAttribute("aria-pressed","false"));render()};
+
+function itemMatch(it){
+  if(st.groups.size&&!st.groups.has(it.group))return false;
+  if(st.org&&it.org!==st.org)return false;
+  if(st.topics.size&&!(it.topics||[]).some(t=>st.topics.has(t)))return false;
+  if(st.focus&&!it.focus)return false;
+  if(st.q){const h=[it.title,it.summary,it.org,it.focus,(it.topics||[]).join(" ")].join(" ").toLowerCase();if(!h.includes(st.q))return false}
+  return true;
+}
+function filtersOn(){return st.q||st.org||st.groups.size||st.topics.size||st.focus}
+
+function render(){
+  const list=$("list");list.replaceChildren();
+  let nItems=0,nFocus=0;
+  briefs.forEach(b=>(b.items||[]).forEach(i=>{nItems++;if(i.focus)nFocus++}));
+  $("sDays").textContent=briefs.length;$("sItems").textContent=nItems;$("sFocus").textContent=nFocus;
+  if(!briefs.length){list.append(el("p","state","还没有简报。每天的定时任务运行后会把当天简报写入这里。"));return}
+  let shown=0;
+  for(const b of briefs){
+    if(st.from&&b.date<st.from)continue;
+    if(st.to&&b.date>st.to)continue;
+    const items=(b.items||[]).filter(itemMatch);
+    if(filtersOn()&&!items.length)continue;
+    shown++;
+    const day=el("article","day");day.id="d"+b.date;
+    const dt=new Date(b.date+"T00:00:00");
+    const wk="日一二三四五六"[dt.getDay()];
+    const dc=el("div","date");const d=el("span","d",b.date.slice(5).replace("-","."));dc.append(d,document.createTextNode(b.date.slice(0,4)+" · 周"+wk));
+    const body=el("div","body");
+    if(b.headline)body.append(el("p","headline",b.headline));
+    for(const [k,label,cv] of GROUPS){
+      if(st.groups.size&&!st.groups.has(k))continue;
+      const gi=items.filter(i=>i.group===k);
+      if(filtersOn()&&!gi.length)continue;
+      const g=el("section","grp");g.style.setProperty("--c",`var(${cv})`);
+      g.append(el("h3",null,label));
+      if(!gi.length){g.append(el("p","empty-grp",(b.empty&&b.empty[k])||"今日无重要更新"))}
+      gi.forEach(i=>{
+        const c=el("div","item");c.style.setProperty("--c",`var(${cv})`);
+        c.append(el("h4",null,i.title));
+        const m=el("div","meta");m.append(el("span",null,i.org||""),el("span",null,i.pubDate||""));c.append(m);
+        if(i.summary)c.append(el("p",null,i.summary));
+        if(i.url){const p=el("p");const a=el("a",null,i.url);a.href=i.url;a.target="_blank";a.rel="noopener";p.append(a);c.append(p)}
+        if(i.topics&&i.topics.length){const t=el("div","tags");i.topics.forEach(x=>t.append(el("span","tag",x)));c.append(t)}
+        if(i.focus){const f=el("div","focus");f.append(el("b",null,"关注点 "),document.createTextNode(i.focus));c.append(f)}
+        g.append(c);
+      });
+      body.append(g);
+    }
+    if(b.note&&!filtersOn())body.append(el("p","note",b.note));
+    day.append(dc,body);list.append(day);
+  }
+  if(!shown)list.append(el("p","state","没有符合筛选条件的条目。"));
+}
+
+function fillOrgs(){
+  const s=new Set();briefs.forEach(b=>(b.items||[]).forEach(i=>i.org&&s.add(i.org)));
+  const sel=$("org");const cur=sel.value;sel.replaceChildren(el("option",null,"全部机构"));sel.firstChild.value="";
+  [...s].sort((a,b)=>a.localeCompare(b,"zh")).forEach(o=>{const op=el("option",null,o);op.value=o;sel.append(op)});
+  sel.value=s.has(cur)?cur:"";
+}
+
+// 归档数据：每期简报一条，按日期倒序
+const ARCHIVE = /*DATA-START*/[{"date": "2026-10-22", "empty": {"assoc": "今日无重要更新（律所解读：Norton Rose Fulbright 10/21 分析 FIA 欧洲 agent-trustee 客户清算模式）", "fmi": "今日无重要更新（日程：Eurex GC Pooling 抵押品迁移 10/24；C7 13.0 / EurexOTC Clear 22.0 Readiness Statement 10/30 截止）"}, "headline": "过去约24小时内 CCP 相关官方发布很少；最值得关注的是 ESMA 10月20日发布的 EMIR 3 PTRR 清算义务豁免 RTS 终稿，21日起业界开始解读。", "items": [{"focus": "", "group": "reg", "org": "ESMA", "pubDate": "2026-10-20", "summary": "终稿覆盖组合压缩、组合再平衡和基差风险优化，规定市场风险中性和风险缩减条件，以及 PTRR 提供方在透明度、算法、执行、内控、记录保存和监控方面的义务。征求意见反馈总体支持，只做有限修改；已于10月9日提交欧盟委员会，委员会有三个月决定是否采纳。", "title": "ESMA 发布 PTRR（交易后风险缩减）服务 RTS 终稿报告，明确 EMIR 3 清算义务豁免条件", "topics": ["EMIR 3.0"], "url": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction"}], "note": "已核查但窗口内无 CCP 相关发布：CFTC、SEC、FSB、香港金管局、OCC、HKEX、CME、上海清算所、FIA、ISDA、SIFMA。"}]/*DATA-END*/;
+briefs=ARCHIVE.slice().sort((a,b)=>b.date.localeCompare(a.date));fillOrgs();render();
+{const h=location.hash.slice(1);if(h){const t=document.getElementById(h);if(t)t.scrollIntoView()}}
+</script>
+
+</body>
+</html>
