@@ -76,7 +76,7 @@ input[type=search]{flex:1 1 220px}
   <header class="top">
     <div>
       <h1>CCP 日报归档</h1>
-      <p class="sub">中央对手清算 · 监管动态 · 每日自动追加，最新在上 · 更新于 <!--UPDATED-->2026-10-23 07:40<!--/UPDATED--></p>
+      <p class="sub">中央对手清算 · 监管动态 · 每日自动追加，最新在上 · 更新于 <!--UPDATED-->2026-10-23 11:41<!--/UPDATED--></p>
     </div>
     <div class="stats" aria-live="polite">
       <span><b id="sDays">–</b>期简报</span>
@@ -186,7 +186,7 @@ function fillOrgs(){
 }
 
 // 归档数据：每期简报一条，按日期倒序
-const ARCHIVE = /*DATA-START*/[{"date": "2026-10-23", "empty": {"assoc": "今日无重要更新", "fmi": "今日无重要更新（OCC 10/22 仅有例行信息备忘录，如 CME 金银期权代码变更提示）", "reg": "今日无重要更新（窗口外背景：BoE 10/15 就 CCP 接受无抵押信用证作抵押品发布咨询；ESMA 10/9 就 CCP 使用代币化抵押品发起征求意见，截止2027-01-15；SEC FICC SR-FICC-2026-010 意见截止10/23）"}, "headline": "过去约24小时内未核实到新的 CCP 相关官方发布；近期待跟进：SEC 对 FICC 国债清算相关申报（SR-FICC-2026-010 意见截止10月23日）及英格兰银行10月15日关于 CCP 接受无抵押信用证作保证金的咨询。", "items": [], "note": "本次运行中官方网站（ESMA、CFTC、SEC、BoE、ISDA、LCH 等）无法直接访问，仅通过搜索引擎核查，未能逐一核实原文；窗口内未发现可确认的新动态，不凑数。"}, {"date": "2026-10-22", "empty": {"assoc": "今日无重要更新（律所解读：Norton Rose Fulbright 10/21 分析 FIA 欧洲 agent-trustee 客户清算模式）", "fmi": "今日无重要更新（日程：Eurex GC Pooling 抵押品迁移 10/24；C7 13.0 / EurexOTC Clear 22.0 Readiness Statement 10/30 截止）"}, "headline": "过去约24小时内 CCP 相关官方发布很少；最值得关注的是 ESMA 10月20日发布的 EMIR 3 PTRR 清算义务豁免 RTS 终稿，21日起业界开始解读。", "items": [{"focus": "", "group": "reg", "org": "ESMA", "pubDate": "2026-10-20", "summary": "终稿覆盖组合压缩、组合再平衡和基差风险优化，规定市场风险中性和风险缩减条件，以及 PTRR 提供方在透明度、算法、执行、内控、记录保存和监控方面的义务。征求意见反馈总体支持，只做有限修改；已于10月9日提交欧盟委员会，委员会有三个月决定是否采纳。", "title": "ESMA 发布 PTRR（交易后风险缩减）服务 RTS 终稿报告，明确 EMIR 3 清算义务豁免条件", "topics": ["EMIR 3.0"], "url": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction"}], "note": "已核查但窗口内无 CCP 相关发布：CFTC、SEC、FSB、香港金管局、OCC、HKEX、CME、上海清算所、FIA、ISDA、SIFMA。"}]/*DATA-END*/;
+const ARCHIVE = /*DATA-START*/[{"date": "2026-10-23", "empty": {"assoc": "今日无重要更新", "fmi": "今日无重要更新（日程：Eurex Clearing 通函069/26 的新增月度最低活动费等修订将于11/1起分批生效，该通函发布于10/9，不在窗口内）", "reg": "今日无重要更新（背景：ESMA 就第三国 CCP 清算活动年度报告框架的征求意见已于10/12截止，终稿待发；BoE 10/15 CCP 无抵押信用证咨询；ESMA 10/9 代币化抵押品征求意见截止2027-01-15）"}, "headline": "过去约24小时内未核实到新的 CCP 相关官方发布；近期待跟进：SEC 对 FICC 国债清算申报（SR-FICC-2026-010 意见截止10月23日）及英格兰银行10月15日关于 CCP 接受无抵押信用证作抵押品的咨询。", "items": [], "note": "本次运行中官方网站（ESMA、CFTC、BoE 等）无法直接访问，仅通过搜索引擎核查，未能逐一核实原文；窗口内未发现可确认的新动态，不凑数。"}, {"date": "2026-10-22", "empty": {"assoc": "今日无重要更新（律所解读：Norton Rose Fulbright 10/21 分析 FIA 欧洲 agent-trustee 客户清算模式）", "fmi": "今日无重要更新（日程：Eurex GC Pooling 抵押品迁移 10/24；C7 13.0 / EurexOTC Clear 22.0 Readiness Statement 10/30 截止）"}, "headline": "过去约24小时内 CCP 相关官方发布很少；最值得关注的是 ESMA 10月20日发布的 EMIR 3 PTRR 清算义务豁免 RTS 终稿，21日起业界开始解读。", "items": [{"focus": "", "group": "reg", "org": "ESMA", "pubDate": "2026-10-20", "summary": "终稿覆盖组合压缩、组合再平衡和基差风险优化，规定市场风险中性和风险缩减条件，以及 PTRR 提供方在透明度、算法、执行、内控、记录保存和监控方面的义务。征求意见反馈总体支持，只做有限修改；已于10月9日提交欧盟委员会，委员会有三个月决定是否采纳。", "title": "ESMA 发布 PTRR（交易后风险缩减）服务 RTS 终稿报告，明确 EMIR 3 清算义务豁免条件", "topics": ["EMIR 3.0"], "url": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction"}], "note": "已核查但窗口内无 CCP 相关发布：CFTC、SEC、FSB、香港金管局、OCC、HKEX、CME、上海清算所、FIA、ISDA、SIFMA。"}]/*DATA-END*/;
 briefs=ARCHIVE.slice().sort((a,b)=>b.date.localeCompare(a.date));fillOrgs();render();
 {const h=location.hash.slice(1);if(h){const t=document.getElementById(h);if(t)t.scrollIntoView()}}
 </script>
