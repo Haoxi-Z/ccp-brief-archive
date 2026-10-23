@@ -26,6 +26,10 @@ TOPIC = {
     "美债清算": ["美国国债集中清算"],
     "保证金/压力测试": ["保证金透明度", "CCP韧性与压力测试"],
     "恢复与处置": ["CCP恢复与处置"],
+    "PFMI/披露": ["PFMI与信息披露"],
+    "互联互通": ["跨境互联互通"],
+    "交易报告": ["交易报告"],
+    "运营/违约事件": ["运营与违约事件"],
 }
 
 # Institution -> jurisdiction (matches the vault's jurisdiction values)
