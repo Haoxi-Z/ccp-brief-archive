@@ -1,1 +1,2 @@
 5182239ad388	2026-10-20 ESMA 发布 PTRR（交易后风险缩减）服务 RTS 终稿报告，明确 EMIR 3 清算义务豁免条件.md
+e59dc312d39a	2026-10-22 ICE Clear Europe FX News Group ICE Clear Europe 将 IRM 2 保证金.md
