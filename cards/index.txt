@@ -1,2 +1,17 @@
 5182239ad388	2026-10-20 ESMA 发布 PTRR（交易后风险缩减）服务 RTS 终稿报告，明确 EMIR 3 清算义务豁免条件.md
 e59dc312d39a	2026-10-22 ICE Clear Europe FX News Group ICE Clear Europe 将 IRM 2 保证金.md
+9ddd99296593	2026-10-23 FCA 演讲：数字时代的市场诚信.md
+6ef38ef57805	2026-10-24 FCA 呼吁私募市场机构随业务快速增长管理利益冲突.md
+1922240ee0d4	2026-10-23 JSCC：IRS 清算经纪协议签署公告.md
+51f665f28f97	2026-10-23 JSCC 获 Risk 杂志「年度清算所」奖.md
+237ee3943fc5	2026-10-23 ICE Markets Media ICE 将 Risk Model 2 扩展至利率市场.md
+9ff3d49b8d2e	2026-10-26 Cboe Clear U.S. Markets Media Cboe Clear U.S. 获批扩展清算能力.md
+07f3e8898994	2026-10-23 HKEX Markets Media HKEX 推出绿色股票标识.md
+a688c4c2214a	2026-10-23 Kalshi BitGo Markets Media Kalshi 与 BitGo 允许客户解锁加密资产流动性用于保证.md
+c8fb4cad7484	2026-10-26 Kalshi Markets Media Kalshi 与 Carbon Arc 推出行业 KPI 合约.md
+3136159b8be1	2026-10-26 MarketAxess Markets Media MarketAxess 第三季度日均成交量增长 13%.md
+18028f2abf1f	2026-10-23 Invesco Markets Media Invesco 向海外扩展 QQQ 创新系列产品.md
+1651aebc8f67	2026-10-23 市场调查 Markets Media 投资者预期可持续配置温和增长.md
+caf40143b1ea	2026-10-26 市场调查 Markets Media 可持续金融重获动力.md
+416b7ef3280a	2026-10-23 ISDA 东京衍生品交易论坛：O'Malia 开幕致辞.md
+7f9e62b19b23	2026-10-23 ISDA「资产管理转型」活动：O'Malia 欢迎辞.md
