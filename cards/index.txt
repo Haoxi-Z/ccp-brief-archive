@@ -15,3 +15,9 @@ c8fb4cad7484	2026-10-26 Kalshi Markets Media Kalshi 与 Carbon Arc 推出行业 
 caf40143b1ea	2026-10-26 市场调查 Markets Media 可持续金融重获动力.md
 416b7ef3280a	2026-10-23 ISDA 东京衍生品交易论坛：O'Malia 开幕致辞.md
 7f9e62b19b23	2026-10-23 ISDA「资产管理转型」活动：O'Malia 欢迎辞.md
+7bf1d24987a5	2026-10-23 HKMA Finadium HKMA 指定主要流动性提供行，人民币回购额度扩至 220 亿.md
+caea0289b016	2026-10-26 SEC Finadium CIBC：投资者应就美债回购清算影响做对冲.md
+e33cfe5f13c1	2026-10-26 Risk.net Risk.net 年度权益衍生品机构：UBS.md
+a9587b542e2a	2026-10-26 市场调查 Markets Media 企业与投资银行处于「增长黄金窗口」.md
+13102aa138fa	2026-10-26 市场调查 Markets Media 可见度的力量：推动金融业女性发展.md
+235587b70236	2026-10-26 ISDA：通用领域模型（CDM）从概念到生产的用户历程.md
