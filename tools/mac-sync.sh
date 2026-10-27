@@ -17,8 +17,14 @@ if ! mkdir -p "$DEST" 2>>"$LOG" || ! touch "$DEST/.ccp-sync-test" 2>>"$LOG"; the
 fi
 rm -f "$DEST/.ccp-sync-test"
 
-if ! idx=$(curl -fsSL --retry 3 "$BASE/index.txt?t=$(date +%s)"); then
-  log "ERROR 无法下载卡片列表（网络或 GitHub 不可用）"
+# Right after wake the network may not be up yet: keep trying for ~10 minutes.
+idx=""
+for i in $(seq 1 30); do
+  idx=$(curl -fsSL -m 30 "$BASE/index.txt?t=$(date +%s)" 2>/dev/null) && break
+  idx=""; sleep 20
+done
+if [ -z "$idx" ]; then
+  log "ERROR 无法下载卡片列表（网络或 GitHub 不可用），一小时后自动重试"
   exit 1
 fi
 
@@ -27,7 +33,7 @@ while IFS=$'\t' read -r id name; do
   [ -z "${id:-}" ] && continue
   grep -qx "$id" "$STATE" && continue
   tmp=$(mktemp)
-  if curl -fsSL --retry 3 "$BASE/$id.md" -o "$tmp"; then
+  if curl -fsSL -m 30 --retry 3 --retry-delay 5 --retry-all-errors "$BASE/$id.md" -o "$tmp"; then
     if [ ! -e "$DEST/$name" ]; then
       mv "$tmp" "$DEST/$name" && added=$((added + 1))
     else

@@ -1,6 +1,7 @@
 #!/bin/bash
 # One-time installer: copies mac-sync.sh to ~/.ccp-sync and schedules it daily
-# at 08:15 (and at login). If the Mac is asleep at 08:15, it runs on wake.
+# at 08:15, at login and every hour after that. If the Mac is asleep at 08:15,
+# it runs on wake. Re-runs are harmless: each card is downloaded only once.
 # Uninstall:
 #   launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/com.haoxi.ccp-sync.plist; rm -rf ~/.ccp-sync ~/Library/LaunchAgents/com.haoxi.ccp-sync.plist
 set -eu
@@ -21,6 +22,7 @@ cat > "$PLIST" <<EOF
   <array><string>/bin/bash</string><string>$DIR/sync.sh</string></array>
   <key>StartCalendarInterval</key>
   <dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>15</integer></dict>
+  <key>StartInterval</key><integer>3600</integer>
   <key>RunAtLoad</key><true/>
   <key>StandardErrorPath</key><string>$DIR/launchd.err</string>
 </dict>
