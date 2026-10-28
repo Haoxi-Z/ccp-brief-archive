@@ -21,3 +21,11 @@ e33cfe5f13c1	2026-10-26 Risk.net Risk.net 年度权益衍生品机构：UBS.md
 a9587b542e2a	2026-10-26 市场调查 Markets Media 企业与投资银行处于「增长黄金窗口」.md
 13102aa138fa	2026-10-26 市场调查 Markets Media 可见度的力量：推动金融业女性发展.md
 235587b70236	2026-10-26 ISDA：通用领域模型（CDM）从概念到生产的用户历程.md
+d00fa215b222	2026-10-27 CFTC 宣布每周两次发布持仓报告（COT）.md
+b0d99a653da9	2026-10-27 ISDA-Actrix：2026 年 9 月美债回购清算指标.md
+67556cdb6cc2	2026-10-27 ISDA：代币化资产作为抵押品的会计处理.md
+b080f7f31110	2026-10-27 Eurosystem Pontes Markets Media 首只欧洲超主权机构 DLT 债券在 Pontes 上发.md
+112f2079928a	2026-10-27 美国市场 Risk.net 美国公司证券结算失败率创四年新高.md
+9581b4bb2643	2026-10-27 Finadium Finadium 2026 利率与回购：买方进入交易与清算.md
+aa7042752e1a	2026-10-27 Markets Media Markets Media Anthropic 上市前永续合约上线.md
+60fa709ed4f7	2026-10-27 Markets Media Markets Media 全球 ETF 年初至今净流入创纪录.md
