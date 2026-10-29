@@ -29,3 +29,13 @@ b080f7f31110	2026-10-27 Eurosystem Pontes Markets Media 首只欧洲超主权机
 9581b4bb2643	2026-10-27 Finadium Finadium 2026 利率与回购：买方进入交易与清算.md
 aa7042752e1a	2026-10-27 Markets Media Markets Media Anthropic 上市前永续合约上线.md
 60fa709ed4f7	2026-10-27 Markets Media Markets Media 全球 ETF 年初至今净流入创纪录.md
+e6716bd879f0	2026-10-28 DTCC DTC Finadium Markets Media DTCC 代币化服务上线，首批 20 家参与者.md
+c236046d871b	2026-10-27 CME Markets Media CME 巴西雷亚尔期货在大选后创单日成交纪录.md
+8bd86a59b43d	2026-10-28 LCH RepoClear Finadium 视频访谈：LCH RepoClear 的 Michel Semaan 谈.md
+e32818307ba2	2026-10-28 Nasdaq Markets Media Nasdaq 投资全天候（Always-On）市场.md
+bdc024bd0691	2026-10-28 Kalshi Plus500 Markets Media Plus500 成为首家推出 Kalshi 永续合约的 FC.md
+87fb338369f5	2026-10-28 市场结构 DerivSource 永续合约与预测市场对衍生品市场结构提出新问题.md
+d33af2a838e9	2026-10-28 市场调查 Risk.net AI 用于信用风险建模，混合方法最优.md
+06c51e2fb56e	2026-10-28 BCBS Risk.net 巴塞尔 G-SIB 规则调整或使 24 家银行免于报告.md
+17718276df00	2026-10-28 ISDA 发布 FpML 5.14 版.md
+f212a9e42b98	2026-10-28 ISDA AFMA 悉尼衍生品交易论坛：O'Malia 开幕致辞.md
