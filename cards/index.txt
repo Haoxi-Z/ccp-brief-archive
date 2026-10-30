@@ -39,3 +39,20 @@ d33af2a838e9	2026-10-28 市场调查 Risk.net AI 用于信用风险建模，混�
 06c51e2fb56e	2026-10-28 BCBS Risk.net 巴塞尔 G-SIB 规则调整或使 24 家银行免于报告.md
 17718276df00	2026-10-28 ISDA 发布 FpML 5.14 版.md
 f212a9e42b98	2026-10-28 ISDA AFMA 悉尼衍生品交易论坛：O'Malia 开幕致辞.md
+a1cdf8a2697a	2026-10-29 BoE 英格兰银行发布 CCP 接受代币化抵押品的监管期望征求意见稿.md
+eadfb902a934	2026-10-29 BoE 英格兰银行：CCP 接受代币化抵押品监管期望咨询文件（CP）.md
+3e1c29b63819	2026-10-29 BoE 英格兰银行周报（2026 年 10 月 28 日）.md
+3bab7ef1dcd1	2026-10-29 ESMA 发布最新一期通讯.md
+3a09fcac4e75	2026-10-29 ESMA 建议简化欧盟分类法（Taxonomy）报告.md
+cee8150da47b	2026-10-29 BIS CPMI CPMI 发布分析：央行如何在快速变化的支付生态中支持支付系统安全、效率及货币信任.md
+5bc020e0f7ca	2026-10-29 UK DMO Finadium 英国 DMO 推出国库券常备回购便利及 2.5 亿英镑抵押品池.md
+d4a6a6327c48	2026-10-29 FICC (DTCC) Risk.net 非银行交易商呼吁重新考虑 FICC 违约基金调整方案.md
+f3c9c61869ee	2026-10-29 ICE Markets Media ICE 投资 TradeXYZ，打造受监管永续合约市场.md
+13748196fecd	2026-10-29 Progmat（日本） Finadium 日本 Progmat 拟在 Canton 沙盒中将双边 JGB 回购代币化.md
+812ea9f79577	2026-10-29 Tradeweb Finadium Tradeweb 2026 年第三季度货币市场日均成交量同比 +6% 至 1.1.md
+1e34e6e5c28a	2026-10-29 State Street Markets Media State Street 推进私募市场每日净值（NAV）.md
+2623d113ac26	2026-10-29 Chainlink S&P Markets Media Chainlink 与标普将金库评估上链.md
+c3fe3f78f6f3	2026-10-29 Ascend M1X Global Finadium Ascend 与 M1X Global 首次以 USDM1 作抵.md
+b2ee2a11a878	2026-10-29 越南市场 Finadium The Investor：越南保证金融资规模创纪录.md
+77fc9be65271	2026-10-29 ISDA Finadium ISDA 分析代币化抵押品在 IFRS 与美国 GAAP 下对 SFT 的会计处理.md
+3653443fc243	2026-10-29 ISDA 博客：用 AI 加速监管报告； Finadium ISDA 再部署四个监管报告 AI 智能体.md
