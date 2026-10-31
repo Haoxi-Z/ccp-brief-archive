@@ -56,3 +56,11 @@ c3fe3f78f6f3	2026-10-29 Ascend M1X Global Finadium Ascend 与 M1X Global 首次�
 b2ee2a11a878	2026-10-29 越南市场 Finadium The Investor：越南保证金融资规模创纪录.md
 77fc9be65271	2026-10-29 ISDA Finadium ISDA 分析代币化抵押品在 IFRS 与美国 GAAP 下对 SFT 的会计处理.md
 3653443fc243	2026-10-29 ISDA 博客：用 AI 加速监管报告； Finadium ISDA 再部署四个监管报告 AI 智能体.md
+2974b5535aa7	2026-10-30 SEC Finadium SEC 就美债回购清算发布豁免救济.md
+43449cbbecf8	2026-10-29 BoE Markets Media 英格兰银行就代币化抵押品征求意见.md
+0b31b1f45ad7	2026-10-30 BoE 英格兰银行：10 月业务状况代理机构汇总.md
+ab39faba2b0d	2026-10-30 ISDA 发布 SIMM 方法论 2.9+2606 版.md
+07b59b90c1eb	2026-10-30 Tradeweb Markets Media Tradeweb 日均成交量同比增长 22.4%.md
+1f2c7261b50e	2026-10-30 MIAX Markets Media MIAX 净收入增长 20%.md
+0e255c3f8dc5	2026-10-30 Cboe Markets Media Cboe 称在 KPI 合约上具先发优势.md
+f2e5e0a63d1d	2026-10-30 Quod Financial The Trade News Quod Financial 推出交易台 AI 工作流工具.md
