@@ -65,3 +65,13 @@ ab39faba2b0d	2026-10-30 ISDA 发布 SIMM 方法论 2.9+2606 版.md
 0e255c3f8dc5	2026-10-30 Cboe Markets Media Cboe 称在 KPI 合约上具先发优势.md
 f2e5e0a63d1d	2026-10-30 Quod Financial The Trade News Quod Financial 推出交易台 AI 工作流工具.md
 a5cd7aa69214	2026-11-02 JSCC 公告：IRS 清算经纪协议签订.md
+18aac1a73daf	2026-11-02 Eurex Clearing Finadium Eurex Clearing 成为首个“混合型”CCP，推进数字化战略.md
+f8a3c7cdf25d	2026-11-02 Eurex Clearing Markets Media Eurex Clearing 将成为首个混合型 CCP.md
+bac3729cfc70	2026-11-02 HKEX（HKCC SEOCH、CMU） Finadium 港交所清算所扩大接受人民币计价非现金抵押品.md
+846e80ba2e13	2026-11-02 US repo 市场 Finadium 2026 年美国回购市场数据一览.md
+4bbad5350645	2026-11-02 tZERO Markets Media tZERO 拟通过 SPAC 上市.md
+8f51e950c617	2026-11-02 Tiger Brokers Markets Media 老虎证券延长全球美股期权交易时段.md
+e7e2f3e6f7d5	2026-11-02 CFTC Markets Media CFTC 将举办 24 7 交易圆桌会议.md
+2b4486ce87e2	2026-11-03 FCA：关于变相薪酬计划贷款还款通知的声明.md
+a6dbc9bcd663	2026-11-03 FCA：发布关于 Andriesz 先生独立审查的职权范围.md
+cc805e06f27e	2026-11-02 ISDA 更新 OTC 衍生品合规日历.md
