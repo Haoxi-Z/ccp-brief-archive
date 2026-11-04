@@ -75,3 +75,12 @@ e7e2f3e6f7d5	2026-11-02 CFTC Markets Media CFTC 将举办 24 7 交易圆桌会�
 2b4486ce87e2	2026-11-03 FCA：关于变相薪酬计划贷款还款通知的声明.md
 a6dbc9bcd663	2026-11-03 FCA：发布关于 Andriesz 先生独立审查的职权范围.md
 cc805e06f27e	2026-11-02 ISDA 更新 OTC 衍生品合规日历.md
+263b5d14f2f8	2026-11-03 DTCC Markets Media Finadium DTCC 获 ESMA 授权欧盟 MiFID 报告服务（ARM.md
+31313faa6073	2026-11-03 BrokerTec (CME) Finadium BrokerTec 10 月美国回购日均名义成交额 4195 亿美元.md
+f6eb58788ce4	2026-11-03 学界 CCP 行业 Finadium NetWrap 方案称可消除买方清算的违约基金.md
+beeafa580415	2026-11-03 HM Treasury 英格兰银行 Markets Media 英国进一步推进首只数字原生国债（DIGIT）.md
+7e19044d8c0a	2026-11-03 Apollo Markets Media Apollo 将推进私募市场托管与结算基础设施.md
+d1d4ae2bbbec	2026-11-03 Standard Chartered Markets Media 渣打在香港推出代币化存款.md
+1f7f0cbb8b2c	2026-11-03 BlackRock Aladdin Premialab Markets Media 贝莱德 Aladdin 与 Pre.md
+c7d2dfdb1da3	2026-11-03 Citi Risk.net 年度亚洲衍生品机构：花旗.md
+b572a7245a73	2026-11-03 ICMA Finadium ICMA：放宽欧洲回购约束将提升银行竞争力.md
