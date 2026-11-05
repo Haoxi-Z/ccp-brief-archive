@@ -84,3 +84,10 @@ d1d4ae2bbbec	2026-11-03 Standard Chartered Markets Media 渣打在香港推出�
 1f7f0cbb8b2c	2026-11-03 BlackRock Aladdin Premialab Markets Media 贝莱德 Aladdin 与 Pre.md
 c7d2dfdb1da3	2026-11-03 Citi Risk.net 年度亚洲衍生品机构：花旗.md
 b572a7245a73	2026-11-03 ICMA Finadium ICMA：放宽欧洲回购约束将提升银行竞争力.md
+7feab05c14c6	2026-11-05 JSCC 公布两项 IRS 清算经纪协议签订通知.md
+8e8e23a45e34	2026-11-04 CME Markets Media CME Group 10 月日均成交量 3000 万张，创 10 月纪录.md
+7654d2c02df4	2026-11-04 LSEG（Dish 结算业务） Risk.net 超越结算：LSEG 的 Dish 瞄准融资业务增长.md
+f8b0f0a34f55	2026-11-04 Finadium（BitGo Consensys） Finadium BitGo 推出全球融资业务；Consensys.md
+a78ac432d18b	2026-11-04 ISDA 就交易报告资格判定工具发起 RFP.md
+064e2d5bf5b9	2026-11-04 ISDA 日本金融厅 ISDA 东京衍生品交易论坛：日本金融厅 Inaba 主旨演讲.md
+37d94926fa63	2026-11-05 FCA 博客：为量子计算未来的韧性现在行动.md
