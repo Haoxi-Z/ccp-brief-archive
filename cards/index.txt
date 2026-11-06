@@ -91,3 +91,13 @@ f8b0f0a34f55	2026-11-04 Finadium（BitGo Consensys） Finadium BitGo 推出全�
 a78ac432d18b	2026-11-04 ISDA 就交易报告资格判定工具发起 RFP.md
 064e2d5bf5b9	2026-11-04 ISDA 日本金融厅 ISDA 东京衍生品交易论坛：日本金融厅 Inaba 主旨演讲.md
 37d94926fa63	2026-11-05 FCA 博客：为量子计算未来的韧性现在行动.md
+3571505b235c	2026-11-05 OCC Finadium OCC 10 月日均证券借贷价值 2234 亿美元，同比 +7.8%.md
+7ac7ee8acbe2	2026-11-05 Cboe Markets Media Cboe 自有指数期权 10 月 ADV 创月度纪录.md
+e22c05e9822f	2026-11-05 Tradeweb Finadium Tradeweb 10 月回购日均成交 8219 亿美元，同比 +4%.md
+74e616f86248	2026-11-06 印度清算 欧盟银行 Risk.net 清算协议达成后，在印欧盟银行下调应急成本.md
+6a93dcc9ba63	2026-11-05 SG-FORGE Kraken Finadium SG-FORGE 与 Kraken 拟整合欧元稳定币作为加密交易现金.md
+629fc2130a05	2026-11-05 IEX Markets Media IEX 称为增长最快的股票交易所.md
+66eecb16a2e3	2026-11-05 ECB Finadium ECB 研究：对冲基金在回购市场为何缺乏弹性.md
+de4021c159cd	2026-11-06 FCA 就变相薪酬计划贷款还款要求采取行动保护消费者.md
+61ba891f1c1b	2026-11-05 英格兰银行发布货币政策报告（2026 年 11 月）及 11 月 4 日周报.md
+a02eb0d6a64c	2026-11-05 ISDA 获 Regulation Asia「监管改革杰出贡献」奖.md
