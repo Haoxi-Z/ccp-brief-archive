@@ -101,3 +101,13 @@ e22c05e9822f	2026-11-05 Tradeweb Finadium Tradeweb 10 月回购日均成交 8219
 de4021c159cd	2026-11-06 FCA 就变相薪酬计划贷款还款要求采取行动保护消费者.md
 61ba891f1c1b	2026-11-05 英格兰银行发布货币政策报告（2026 年 11 月）及 11 月 4 日周报.md
 a02eb0d6a64c	2026-11-05 ISDA 获 Regulation Asia「监管改革杰出贡献」奖.md
+e815e0634118	2026-11-06 EBA 就监管报告简化提出后续步骤，并延长 ITS 实施时间表.md
+16e6b076083b	2026-11-06 FCA 博客：让消费者合同更公平.md
+e1ae073ef37d	2026-11-06 Euronext Markets Media Euronext 三季报：FICC 清算与交易扩张，泛欧 CSD 上线.md
+3efc7ac2a06f	2026-11-06 Eurex Finadium Eurex 10 月回购量同比增 14% 至 5344 亿欧元.md
+07321f9a8e65	2026-11-06 Euronext MTS Finadium Euronext MTS Repo 10 月日均成交 2395 亿欧元，同.md
+27e452f93bd1	2026-11-06 Broadridge Finadium Broadridge 分布式账本回购 10 月日均 3450 亿美元，与 9.md
+5c929f91c78b	2026-11-06 GL1 Org MAS Markets Media 五家银行成立新加坡 Global Layer One 组织，推动代.md
+d224471b8875	2026-11-06 Hyperliquid Strategies Markets Media Hyperliquid Strategies.md
+7fa48e5f42f6	2026-11-06 HSBC Citi Risk.net 年度大奖：HSBC 获衍生品客户清算商，Citi 获利率衍生品机构.md
+c4f1d6431b37	2026-11-06 Risk.net 行业调查 Risk.net 多数交易商设中央 XVA 台，职责各异；Bank Mandiri SFT.md
