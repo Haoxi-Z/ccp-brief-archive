@@ -111,3 +111,13 @@ e1ae073ef37d	2026-11-06 Euronext Markets Media Euronext 三季报：FICC 清算�
 d224471b8875	2026-11-06 Hyperliquid Strategies Markets Media Hyperliquid Strategies.md
 7fa48e5f42f6	2026-11-06 HSBC Citi Risk.net 年度大奖：HSBC 获衍生品客户清算商，Citi 获利率衍生品机构.md
 c4f1d6431b37	2026-11-06 Risk.net 行业调查 Risk.net 多数交易商设中央 XVA 台，职责各异；Bank Mandiri SFT.md
+238caf803170	2026-11-09 ISDA 就 FCA 英国 MiFIR 交易报告新制度指引（CP26 34）提交回应.md
+602eccb6f166	2026-11-09 ISDA 就欧洲议会对 MISP 的交易报告与透明度修订提交意见.md
+61a68324c48b	2026-11-09 EBA 精简 2027 年欧盟压力测试，所需数据减少逾 55%.md
+a15b614296f4	2026-11-09 巴塞尔委员会 Regulation Tomorrow 巴塞尔委员会就 IRRBB 补充第二支柱指引征求意见.md
+77a28918f3eb	2026-11-09 DNB AFM Regulation Tomorrow 荷兰央行与 AFM 发布 AI 相关报告.md
+d364abd9d485	2026-11-09 市场结构 Risk.net 永续合约市场“模糊性”引发争议.md
+5d98bc83e835	2026-11-09 BNP Paribas Markets Media 后台业务的新阶段：更快、更智能、更互联.md
+c1ff24f4dcfa	2026-11-09 Anchorage Digital Markets Media Anchorage Digital 申请互换交易商注册.md
+6036fa22125b	2026-11-09 Kalshi Susquehanna Predictions Markets Media Kalshi 与 Susqu.md
+436859262fd1	2026-11-09 Finadium Finadium 北美利率与回购大会（RRNA）经验总结.md
