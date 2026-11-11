@@ -121,3 +121,18 @@ d364abd9d485	2026-11-09 市场结构 Risk.net 永续合约市场“模糊性”�
 c1ff24f4dcfa	2026-11-09 Anchorage Digital Markets Media Anchorage Digital 申请互换交易商注册.md
 6036fa22125b	2026-11-09 Kalshi Susquehanna Predictions Markets Media Kalshi 与 Susqu.md
 436859262fd1	2026-11-09 Finadium Finadium 北美利率与回购大会（RRNA）经验总结.md
+16a981eb5e78	2026-11-10 欧盟委员会 Regulation Tomorrow 欧委会通过 EMIR 保证金透明度 RTS 授权条例.md
+0703a69d2b81	2026-11-10 英格兰银行发布资产购买工具（APF）2026 年三季度报告.md
+6aa01e441ec9	2026-11-10 PRA Regulation Tomorrow PRA 发布大额风险暴露框架修订第二份政策声明.md
+d73eb94a61e2	2026-11-11 FCA：一名男子因针对英国上市公司虚构 1.54 亿英镑收购要约被判刑.md
+f7de8b9a628e	2026-11-10 NIST Finadium 美国 NIST 发布对抗性网络攻击及缓解措施分类.md
+6437d7c71b5c	2026-11-10 SGX MAS Finadium 新加坡宣布场外黄金清算系统 2027 年上线.md
+77d2d8cc0fb7	2026-11-10 DTCC The Trade News Finadium DTCC 推出欧盟 MiFID 认可报告机制（ARM）.md
+7b1e63af7f8f	2026-11-10 NYSE ICE Markets Media NYSE 选用 Avalanche 账本技术支持代币化证券平台清算.md
+8a4cf76a7ddb	2026-11-10 Morgan Stanley Markets Media 摩根士丹利收购数字原生过户代理 Vinyl Equity.md
+82170a3d6e18	2026-11-10 Cboe OCC Markets Media Cboe 扩展预测市场产品.md
+c453edc696d8	2026-11-10 LMAX Markets Media LMAX 受益于业务多元化.md
+d0fa5c54eb55	2026-11-10 CloudMargin Finadium CloudMargin：不必等待数字资产成熟即可建设实时抵押品通道.md
+7985faa549a1	2026-11-10 买方机构 Risk.net 二季度股市上涨重塑买方期权头寸.md
+69d284767380	2026-11-10 Nvidia Finadium 做空机构 Culper 报告再度引发关注，称 Nvidia 存在“重大中国问题”.md
+10188ab54470	2026-11-10 ISDA 发布关于 MISP 下 EMIR 妥协修订的简报.md
