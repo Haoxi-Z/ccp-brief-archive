@@ -136,3 +136,15 @@ d0fa5c54eb55	2026-11-10 CloudMargin Finadium CloudMargin：不必等待数字资
 7985faa549a1	2026-11-10 买方机构 Risk.net 二季度股市上涨重塑买方期权头寸.md
 69d284767380	2026-11-10 Nvidia Finadium 做空机构 Culper 报告再度引发关注，称 Nvidia 存在“重大中国问题”.md
 10188ab54470	2026-11-10 ISDA 发布关于 MISP 下 EMIR 妥协修订的简报.md
+89d0b28c4ed7	2026-11-11 英国财政部 Regulation Tomorrow 《2023 年金融服务与市场法（CCP 补偿机制）（独立估值师）规.md
+d66be8f94da8	2026-11-11 CFTC Markets Media CFTC 批准 tZERO 运营衍生品交易所（DCM）.md
+072a6b720422	2026-11-11 FCA Regulation Tomorrow FCA 发布交易场所运营韧性多机构审查.md
+24b654c6999b	2026-11-11 捷克央行 Finadium 捷克央行完成回购测试后首次发行 DLT 债券.md
+451c4faff1bb	2026-11-11 多家监管机构 Regulation Tomorrow 金融服务监管 ESG 动态汇编.md
+f3b087430c87	2026-11-11 Progmat Digital Asset Markets Media Progmat 与 Digital Asset.md
+52c99fe4315f	2026-11-11 Standard Chartered 24X Markets Media 渣打与 24X 扩展数字资产主经纪业务.md
+07fe3b480c59	2026-11-11 MEMX Markets Media MEMX 第二家期权交易所 MX2 创成交纪录.md
+57183618c982	2026-11-11 美国期权市场 OCC DerivSource 美国期权市场三季度表现分化，部分板块创纪录.md
+93675db876d5	2026-11-11 预测市场 Risk.net 预测市场能否通过机构投资者的检验？.md
+1d992c243c6e	2026-11-11 ISDA 发布中国内地与香港利率衍生品交易分析.md
+49d6c76eaf7a	2026-11-11 ISDA Finadium ISDA：代币化黄金作为批发抵押品有利于结算.md
