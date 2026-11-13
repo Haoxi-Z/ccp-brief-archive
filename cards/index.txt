@@ -148,3 +148,12 @@ f3b087430c87	2026-11-11 Progmat Digital Asset Markets Media Progmat 与 Digital 
 93675db876d5	2026-11-11 预测市场 Risk.net 预测市场能否通过机构投资者的检验？.md
 1d992c243c6e	2026-11-11 ISDA 发布中国内地与香港利率衍生品交易分析.md
 49d6c76eaf7a	2026-11-11 ISDA Finadium ISDA：代币化黄金作为批发抵押品有利于结算.md
+1481c7635aaf	2026-11-13 FCA 提议放宽养老金投资限制，以提升储户长期回报.md
+6b97f918dc72	2026-11-12 DTCC DTC Finadium DTC 代币化服务将接入 Solana，推进多链战略.md
+aebeb4b1d3af	2026-11-12 ClearToken Markets Media ClearToken 推进数字化后台业务：DSD 获批、CCP 申请.md
+ab3ce25754a5	2026-11-12 SGX Markets Media SGX 集团 10 月衍生品成交量创六个月新高.md
+7ef066055352	2026-11-12 FIA Tech BlackRock Finadium 贝莱德与 FIA Tech 合作推动场内衍生品 T+0 后台处.md
+4e93f03afc48	2026-11-12 NYSE Pyth Markets Media NYSE 实时数据接入 Pyth 数据市场.md
+43f8b9ff4a6e	2026-11-12 Finadium Finadium 纽约利率与回购大会上的加美市场联系.md
+e022596ac081	2026-11-12 ISDA 香港衍生品交易论坛：Steven Kennedy 开幕致辞.md
+c837f4f31ca4	2026-11-12 ISDA：2026 年外汇定义文件——现在就行动.md
