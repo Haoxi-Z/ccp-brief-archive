@@ -157,3 +157,7 @@ ab3ce25754a5	2026-11-12 SGX Markets Media SGX 集团 10 月衍生品成交量创
 43f8b9ff4a6e	2026-11-12 Finadium Finadium 纽约利率与回购大会上的加美市场联系.md
 e022596ac081	2026-11-12 ISDA 香港衍生品交易论坛：Steven Kennedy 开幕致辞.md
 c837f4f31ca4	2026-11-12 ISDA：2026 年外汇定义文件——现在就行动.md
+26b2232758f3	2026-11-13 英格兰银行发布 Project Meridian FX APAC 政策报告、技术报告及执行摘要.md
+ce3230ad560d	2026-11-13 JSCC 发布“上市衍生品 2027 年 4 月项目”变更概要及相关材料（面向投资者）.md
+5c10d44b1d54	2026-11-13 Hilbert Group Markets Media Hilbert Group 为资本上链做准备.md
+dc92e36855d5	2026-11-13 ISDA 公布对欧委会 MiCA 审查定向咨询的回复.md
