@@ -161,3 +161,19 @@ c837f4f31ca4	2026-11-12 ISDA：2026 年外汇定义文件——现在就行动.m
 ce3230ad560d	2026-11-13 JSCC 发布“上市衍生品 2027 年 4 月项目”变更概要及相关材料（面向投资者）.md
 5c10d44b1d54	2026-11-13 Hilbert Group Markets Media Hilbert Group 为资本上链做准备.md
 dc92e36855d5	2026-11-13 ISDA 公布对欧委会 MiCA 审查定向咨询的回复.md
+5bc9e1e25b39	2026-11-16 英格兰银行发布《确保 CCP 韧性》近终政策声明及 CCP 规则手册近终稿.md
+5ee893e292a6	2026-11-16 英格兰银行近终政策声明：对非英国 CCP 的分层方法.md
+1430f6bdb12d	2026-11-16 英格兰银行发布政策声明：运用要求与许可权力支持新 CCP「动员期」.md
+0a7a78769189	2026-11-16 英格兰银行政策说明：运用要求与许可权力支持新 CCP 动员.md
+d69128ed796f	2026-11-16 英格兰银行近终政策说明：监管流程（模型变更、认可令及其变更）与保证金许可.md
+2bf8ddd9d064	2026-11-16 英格兰银行近终政策说明：CCP 规则相关许可（披露、外包及互操作安排）.md
+cad7bd2d38ca	2026-11-16 英格兰银行发布 CCP 保证金近终监管声明.md
+8e7316088249	2026-11-16 英格兰银行技术说明：违约瀑布中的位置对按比例 SSITG 要求的影响.md
+5cf6967f7511	2026-11-16 FSB Regulation Tomorrow G20 跨境支付路线图：2026 年综合进展报告.md
+4b9d333ea4fd	2026-11-16 独立审查 Regulation Tomorrow 银行服务可得性：独立审查报告.md
+280f055f0e1c	2026-11-16 Norton Rose Fulbright Regulation Tomorrow 从发帖到处罚：各司法辖区「金融网红.md
+657bdef62428	2026-11-16 英国银行业 Risk.net 英国银行平均流动性覆盖率（LCR）降至八年低点.md
+25fe5b9ae0e0	2026-11-16 JSCC Risk.net JSCC 回购清算计划的代理模式遇会计障碍.md
+6dac99214ce2	2026-11-16 CME Group Markets Media 专访 CME 金融业务 Eleanor Stanley：适应力与战略前.md
+91690e7e4f94	2026-11-16 EquiLend Finadium 在 EquiLend NGT 上开展回购和证券借贷的商业理由.md
+1383d22b90b8	2026-11-17 Markets Media Markets Media 2026 美国金融女性奖获奖名单.md
