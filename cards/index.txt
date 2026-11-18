@@ -177,3 +177,12 @@ cad7bd2d38ca	2026-11-16 英格兰银行发布 CCP 保证金近终监管声明.md
 6dac99214ce2	2026-11-16 CME Group Markets Media 专访 CME 金融业务 Eleanor Stanley：适应力与战略前.md
 91690e7e4f94	2026-11-16 EquiLend Finadium 在 EquiLend NGT 上开展回购和证券借贷的商业理由.md
 1383d22b90b8	2026-11-17 Markets Media Markets Media 2026 美国金融女性奖获奖名单.md
+4ee1c77110b6	2026-11-17 SEC Finadium SEC 放宽保证金要求，交易商美债回购清算承接能力上升.md
+8850d5cbfe40	2026-11-17 美联储 Finadium 美联储金融稳定报告：对冲基金杠杆创十余年新高，AI 跃居首要稳定风险.md
+e47a47249937	2026-11-17 ASIC Regulation Tomorrow ASIC 就境外金融服务提供者（FFSP）新制度发布指引草案与豁免提.md
+045953498e10	2026-11-17 英国金融监管机构论坛 Regulation Tomorrow 英国《监管举措一览表》（Regulatory Initi.md
+1fe1a44edc54	2026-11-17 Eurex Repo Finadium Eurex Repo 10 月业务强劲，GC Pooling 仍占多数.md
+eadf627f3fd7	2026-11-17 LTSE Markets Media Long-Term Stock Exchange 力争扩大市场份额.md
+5ab2b6642991	2026-11-17 ISDA SwapsInfo：2026 年三季度及前三季度衍生品交易回顾.md
+aaf8bc64394f	2026-11-17 ISDA 与 DTCC 联合活动「金融市场数字化转型」：O’Malia 开幕致辞.md
+b206bfa2e8af	2026-11-17 CFFiM Finadium 加拿大金融市场论坛（CFFiM）致函 CSA：基金回购提案范围过窄.md
