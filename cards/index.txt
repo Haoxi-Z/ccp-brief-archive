@@ -186,3 +186,14 @@ eadf627f3fd7	2026-11-17 LTSE Markets Media Long-Term Stock Exchange 力争扩大
 5ab2b6642991	2026-11-17 ISDA SwapsInfo：2026 年三季度及前三季度衍生品交易回顾.md
 aaf8bc64394f	2026-11-17 ISDA 与 DTCC 联合活动「金融市场数字化转型」：O’Malia 开幕致辞.md
 b206bfa2e8af	2026-11-17 CFFiM Finadium 加拿大金融市场论坛（CFFiM）致函 CSA：基金回购提案范围过窄.md
+ef0da45662c9	2026-11-18 ESMA 完成 DRSP 年度豁免评估，监管分工维持不变.md
+b33812540128	2026-11-18 IOSCO 发布《2026 年金融资产代币化监测报告》.md
+88065c99ed1e	2026-11-18 EBA：第三国银行在欧盟子行市场份额上升，外币错配下降.md
+455df564ce26	2026-11-18 ECB Finadium 欧央行警示非银机构回购融资上升带来的溢出风险.md
+a525f198d492	2026-11-18 FCA Regulation Tomorrow FCA 就投资公司审慎制度（IFPR）检讨发布征求意见.md
+c88bdb51130c	2026-11-18 PRA Regulation Tomorrow PRA CP16 26：明确 O-SII 资本缓冲的实施方法.md
+9319c28cd2b9	2026-11-18 FCA Regulation Tomorrow FCA 评估报告 EP26 1：2018 年信用卡持续负债救济措施效果.md
+dcf5fd8f02be	2026-11-18 BNY SWIAT Finadium BNY 与 SWIAT 完成双边担保品交易试点.md
+d5915a43acb0	2026-11-18 Cboe Markets Media Cboe 推出公司 KPI 二元期权：先做流动性展示，再求深度.md
+a1f32ea8072f	2026-11-18 OTC 衍生品市场 DerivSource OTC 衍生品交易面临手工流程现代化压力.md
+c3b1fdb82ebd	2026-11-18 ISDA 等 ISDA、AIMA、FIA、MFA、SIFMA、SIFMA AMG 联合表态支持 FICC 设立担保基金.md
