@@ -197,3 +197,17 @@ dcf5fd8f02be	2026-11-18 BNY SWIAT Finadium BNY 与 SWIAT 完成双边担保品�
 d5915a43acb0	2026-11-18 Cboe Markets Media Cboe 推出公司 KPI 二元期权：先做流动性展示，再求深度.md
 a1f32ea8072f	2026-11-18 OTC 衍生品市场 DerivSource OTC 衍生品交易面临手工流程现代化压力.md
 c3b1fdb82ebd	2026-11-18 ISDA 等 ISDA、AIMA、FIA、MFA、SIFMA、SIFMA AMG 联合表态支持 FICC 设立担保基金.md
+bc12c1108f13	2026-11-20 FCA PRA 英国金融监管机构在网络攻击增多之际明确网络安全预期.md
+bf2b0938d16d	2026-11-20 FCA 推出号称全球首个 AI 创新洞察平台.md
+c296ed64a91b	2026-11-20 FCA 敦促保险公司改进理赔处理.md
+04227de76647	2026-11-20 FCA 真人秀明星因非法在社交媒体推广高风险投资被判刑.md
+590ee27453ae	2026-11-19 EBA 风险评估：欧盟 欧洲经济区银行在主权债务压力、借款人脆弱性和网络威胁上升中保持韧性.md
+8d87aa762c71	2026-11-19 英格兰银行周报（截至 2026-11-18）.md
+f92f23bf8dde	2026-11-19 MAS Finadium MAS 发布 Guardian 代币化担保品框架报告.md
+88403eb49731	2026-11-19 SEC Finadium SEC 对 Canton Coin 出具不行动函，认定其为“数字商品”.md
+1785a8ed2d1a	2026-11-19 Cboe Clear Europe Markets Media Cboe Clear Europe 美国股票 SFT.md
+94b9b562b0ef	2026-11-19 清算 CDS 市场 Risk.net 信用交易激增，10 月清算 CDS 保证金创 842 亿美元新高.md
+0d7f194856db	2026-11-20 JSCC：新的利率互换（IRS）清算经纪协议签署.md
+eec1c0da373d	2026-11-19 IDX KPEI（IDClear） Finadium 印尼交易所与 IDClear 推进多项证券融资举措.md
+33f5dfac98f1	2026-11-19 Backpack Markets Media Backpack 获 FCM 牌照及 NFA 会员资格.md
+35abcc3e6772	2026-11-19 ISDA：欧盟、英国、美国报告的利率衍生品交易活动（2026 年上半年及二季度）.md
