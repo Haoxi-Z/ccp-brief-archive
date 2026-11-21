@@ -211,3 +211,16 @@ f92f23bf8dde	2026-11-19 MAS Finadium MAS 发布 Guardian 代币化担保品框�
 eec1c0da373d	2026-11-19 IDX KPEI（IDClear） Finadium 印尼交易所与 IDClear 推进多项证券融资举措.md
 33f5dfac98f1	2026-11-19 Backpack Markets Media Backpack 获 FCM 牌照及 NFA 会员资格.md
 35abcc3e6772	2026-11-19 ISDA：欧盟、英国、美国报告的利率衍生品交易活动（2026 年上半年及二季度）.md
+f115803c6d9a	2026-11-19 IOSCO Regulation Tomorrow IOSCO 发布《量子计算对金融市场影响》最终报告.md
+30492cff2557	2026-11-20 欧盟理事会 欧洲议会 Regulation Tomorrow 欧盟共同立法者就 SFDR 2.0 达成协议.md
+4551231db07e	2026-11-20 FCA Regulation Tomorrow FCA 发布政策声明 PS26 23：客户分类与利益冲突.md
+92a26e757f79	2026-11-20 BaFin Regulation Tomorrow BaFin 就精简版 MaComp（合规职能最低要求）征求意见.md
+a7282a482639	2026-11-20 BaFin Regulation Tomorrow BaFin 发布 CRD 第三国分行重新许可要求的监管通知.md
+8f3b0ced0fea	2026-11-20 LuxCSD（Clearstream） Markets Media LuxCSD 推出 D7 预发行 API，实现一级.md
+093eca19d51d	2026-11-20 EquiLend Markets Media State Street 加入 EquiLend 1Source 分布式.md
+d4345dce90b8	2026-11-20 Hyperliquid Nasdaq Markets Media Pre-IPO 永续合约经受 Anthropic 上.md
+6bea5129dae2	2026-11-20 DTCC FICC 等 Finadium 纽约回购会议回顾：美债回购清算的竞争、改进与待办事项.md
+871d25cc8850	2026-11-20 Eurex Clearing Finadium 炉边对话：Eurex 的 Frank Odendall 与 ICMA.md
+83357e4b0092	2026-11-20 BNY J.P. Morgan Finadium 纽约回购会议回顾：三方回购、财务资源管理与平台优化.md
+4ac529d9df22	2026-11-20 GLMX Tradeweb Barclays Finadium 纽约回购会议回顾：推动买方接入电子化回购交易与清算.md
+8d387371fb9b	2026-11-20 Digital Asset Transcend 等 Finadium 纽约回购会议回顾：多链网络、DLT 与回购.md
