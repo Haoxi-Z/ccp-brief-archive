@@ -224,3 +224,4 @@ d4345dce90b8	2026-11-20 Hyperliquid Nasdaq Markets Media Pre-IPO 永续合约经
 83357e4b0092	2026-11-20 BNY J.P. Morgan Finadium 纽约回购会议回顾：三方回购、财务资源管理与平台优化.md
 4ac529d9df22	2026-11-20 GLMX Tradeweb Barclays Finadium 纽约回购会议回顾：推动买方接入电子化回购交易与清算.md
 8d387371fb9b	2026-11-20 Digital Asset Transcend 等 Finadium 纽约回购会议回顾：多链网络、DLT 与回购.md
+eb7fc23d5e3a	2026-11-22 ECB 欧元体系 Finadium 欧元体系将 Appia 拆分为三个优先设计流，邀请市场参与.md
