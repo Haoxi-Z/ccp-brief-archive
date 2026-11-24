@@ -225,3 +225,14 @@ d4345dce90b8	2026-11-20 Hyperliquid Nasdaq Markets Media Pre-IPO 永续合约经
 4ac529d9df22	2026-11-20 GLMX Tradeweb Barclays Finadium 纽约回购会议回顾：推动买方接入电子化回购交易与清算.md
 8d387371fb9b	2026-11-20 Digital Asset Transcend 等 Finadium 纽约回购会议回顾：多链网络、DLT 与回购.md
 eb7fc23d5e3a	2026-11-22 ECB 欧元体系 Finadium 欧元体系将 Appia 拆分为三个优先设计流，邀请市场参与.md
+13b6ab18efd6	2026-11-23 ECB 欧元体系 Markets Media 欧央行扩大 DLT 资产担保品范围：接受 DLT 试点制度平台发行的证券.md
+6db8d9a75ae3	2026-11-23 CFTC 发布《特定事件合约数据报告要求》最终规则.md
+0cbfcf0aee18	2026-11-23 SEC Markets Media SEC 提议重构综合审计追踪（CAT）.md
+13d3195adfdf	2026-11-23 IOSCO Markets Media IOSCO 发布 2026 年代币化监测报告.md
+5a58f67e52c3	2026-11-24 FCA：丧亲家庭需要的是支持，而非与文书手续的抗争.md
+e2788906640c	2026-11-23 欧洲议会 ECON Regulation Tomorrow ECON 就 PSD3 与 PSR 发布二读建议草案.md
+072077f8f7aa	2026-11-23 AMLA Regulation Tomorrow AMLA 就金融与非金融领域反洗钱 反恐融资监管联席会议 RTS 草.md
+31cb4101a3bf	2026-11-23 IOSCO Regulation Tomorrow IOSCO 发布评估 2021 年资管行业可持续相关建议执行情况的.md
+c3f9e49c834b	2026-11-23 ASIC Regulation Tomorrow ASIC 2027 年将重点打击生活成本及科技相关的消费者损害.md
+675114613927	2026-11-23 FICC（DTCC） Finadium 新数据库揭示美国 Sponsored 回购定价趋势.md
+099eefa2c2d3	2026-11-23 State Street Markets Media State Street GlobalLINK 受益于容器化技术.md
