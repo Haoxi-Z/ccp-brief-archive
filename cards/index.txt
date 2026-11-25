@@ -236,3 +236,28 @@ e2788906640c	2026-11-23 欧洲议会 ECON Regulation Tomorrow ECON 就 PSD3 与 
 c3f9e49c834b	2026-11-23 ASIC Regulation Tomorrow ASIC 2027 年将重点打击生活成本及科技相关的消费者损害.md
 675114613927	2026-11-23 FICC（DTCC） Finadium 新数据库揭示美国 Sponsored 回购定价趋势.md
 099eefa2c2d3	2026-11-23 State Street Markets Media State Street GlobalLINK 受益于容器化技术.md
+3e6bf601216d	2026-11-24 CFTC Finadium CFTC 工作人员：SEF DCM DCO 可用加密资产充实财务资源缓冲，但不能满足流动性.md
+a020511afc03	2026-11-24 瑞士央行（SNB） Markets Media 瑞士央行启动 Swiss Financial Ledger 探索项目.md
+67c1e360c695	2026-11-24 AFM（荷兰） Regulation Tomorrow AFM 就交易场所开展非中央清算活动的指引征求意见.md
+0e870d5093aa	2026-11-24 FCA Regulation Tomorrow FCA 就 2027 28 年度监管收费征求意见，监管机构讨论综合磁带.md
+81c349e0bc16	2026-11-25 FCA 博客：更明智的监管意味着理解取舍.md
+8a0f76f3250f	2026-11-24 欧洲议会 Regulation Tomorrow 欧洲议会支持为欧盟企业简化规则、减少官僚负担.md
+f13093b818e2	2026-11-24 PRA Regulation Tomorrow PRA 就 IFRS 18 与 FINREP 报告发布声明.md
+99d9278cff06	2026-11-24 韩国 FSC FSS KRX Finadium 韩国当局加强卖空与融资融券监控.md
+e63032026ebc	2026-11-24 加拿大央行（BoC） Finadium 加拿大央行关注对冲基金在国债发行增加背景下对回购融资的依赖.md
+795a1fc01b8d	2026-11-24 Seturion（Boerse Stuttgart） Markets Media Seturion 力图改变欧洲资本市.md
+8be1ee725554	2026-11-24 ETS（Etrading Software） Finadium ETS Connect 平台新增英国场外衍生品交易后数.md
+801800e01694	2026-11-24 Euroclear Finadium Euroclear 抵押品大会见闻.md
+ff2b80992c04	2026-11-24 tZERO Markets Media tZERO 与 SPAC FG Imperii 秘密提交 S-4 注册声明草案.md
+bd46e4c054c6	2026-11-24 LCH Risk.net Risk Awards 2027 年度清算所：LCH.md
+c7c8aba55f02	2026-11-24 Citi Risk.net Risk Awards 2027 年度衍生品客户清算商：Citi.md
+6385d3a5c30b	2026-11-24 Risk.net Risk.net Risk Awards 2027 获奖名单.md
+9388d97f0163	2026-11-24 Bank of America Risk.net Risk Awards 2027 年度衍生品机构：美国银行.md
+7fd7084cb165	2026-11-24 Bank of America Risk.net Risk Awards 2027 年度信用衍生品机构：美国银行.md
+1c3f0ac887b8	2026-11-24 Bank of America Risk.net Risk Awards 2027 年度货币衍生品机构：美国银行.md
+513a2b6ff18b	2026-11-24 Natixis Risk.net Risk Awards 2027 年度利率衍生品机构：Natixis.md
+1f7357ecd801	2026-11-24 BNP Paribas Risk.net Risk Awards 2027 年度通胀衍生品机构：法国巴黎银行.md
+400eb07afd5d	2026-11-24 JP Morgan Risk.net Risk Awards 2027 年度股票衍生品机构：摩根大通.md
+273ac9b6b47b	2026-11-24 ISDA-Actrix 美国国债回购市场清算指标（2026 年 10 月）.md
+b675d567a732	2026-11-24 ISDA 致函 FASB 支持会计准则汇编改进.md
+92aeee39b335	2026-11-24 FILS（Finadium 会议） Finadium FILS EU 2026：24 7 市场将围绕周末回购发展.md
