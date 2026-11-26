@@ -261,3 +261,13 @@ c7c8aba55f02	2026-11-24 Citi Risk.net Risk Awards 2027 年度衍生品客户清�
 273ac9b6b47b	2026-11-24 ISDA-Actrix 美国国债回购市场清算指标（2026 年 10 月）.md
 b675d567a732	2026-11-24 ISDA 致函 FASB 支持会计准则汇编改进.md
 92aeee39b335	2026-11-24 FILS（Finadium 会议） Finadium FILS EU 2026：24 7 市场将围绕周末回购发展.md
+3a0cc220763e	2026-11-25 EBA 研究稳定币（含电子货币代币 EMT）在去中心化金融中的使用.md
+bd2fc0c90626	2026-11-25 EBA 发布报告框架 v4.4 第一阶段的修补版（hotfix）.md
+6167b75d7f66	2026-11-25 FCA Regulation Tomorrow FCA 就改革《披露与透明度规则》（DTR）手册发布征求意见（Call.md
+62d60ce9b967	2026-11-25 FCA Regulation Tomorrow 一般保险理赔处理专题报告.md
+0a74380a5155	2026-11-25 香港金管局 CMU OmniClear Markets Media 香港推出 CMU 数字资产平台（CMU DAP）.md
+e256d7c2faae	2026-11-25 LSEG Tradeweb Markets Media Finadium LSEG 与 Tradeweb 推出非清算回.md
+d42d3fbb659d	2026-11-25 CME Group Markets Media CME 单日成交量创历史新高.md
+a02f1976dde3	2026-11-25 ICE Clear Credit Markets Media 法兴美洲证券通过 ICE Clear Credit 新增.md
+ecff5b4bb9f4	2026-11-25 世界黄金协会 ICE Benchmark Administration Markets Media 汇丰、摩根大通与.md
+18f45dd249f0	2026-11-25 OTC 衍生品市场 DerivSource 2026 年前九个月场外衍生品交易量上升.md
