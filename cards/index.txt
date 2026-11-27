@@ -271,3 +271,17 @@ d42d3fbb659d	2026-11-25 CME Group Markets Media CME 单日成交量创历史新�
 a02f1976dde3	2026-11-25 ICE Clear Credit Markets Media 法兴美洲证券通过 ICE Clear Credit 新增.md
 ecff5b4bb9f4	2026-11-25 世界黄金协会 ICE Benchmark Administration Markets Media 汇丰、摩根大通与.md
 18f45dd249f0	2026-11-25 OTC 衍生品市场 DerivSource 2026 年前九个月场外衍生品交易量上升.md
+8713e684dcd1	2026-11-26 英格兰银行（FPC） 英格兰银行发布 2026 年 11 月《金融稳定报告》.md
+e49a42f7029e	2026-11-26 英格兰银行周报（截至 2026 年 11 月 25 日）.md
+fd7720ed088d	2026-11-26 ECB Finadium 欧央行：标准再融资操作正趋于常态化.md
+92f01d6e9db1	2026-11-26 加拿大央行（CIMPA） Finadium 加拿大央行担保品基础设施与市场惯例咨询小组发布回购估值最佳实践.md
+91363bd8d5a2	2026-11-26 土耳其央行 Finadium 土耳其央行暂停一周期回购招标.md
+f4d8368d72a2	2026-11-27 中国人民银行 Risk.net 人民银行政策利率切换为人民币隔夜利率互换铺路.md
+0f22c5070069	2026-11-26 EBA 跟进审查确认欧盟 欧洲经济区在适用违约规则方面监管趋同度较高.md
+fac55484a9d1	2026-11-26 FCA Regulation Tomorrow FCA 第 26 25 号政策声明：英国资产证券化框架改革规则.md
+7117e8d0d138	2026-11-26 BaFin Regulation Tomorrow BaFin 发布关于存托机构和资管公司投资加密资产职责的新通函.md
+83aea1af140f	2026-11-27 FCA 提醒投资前先核查机构资质，AI 诈骗增多.md
+643fb49f787a	2026-11-26 TMX Group Clearstream（CCMS） Finadium 加拿大三方回购服务 CCMS 新增三类 GC.md
+a2c2b59e4c0f	2026-11-26 CME Group NYSE Markets Media 美国交易所处理量创纪录.md
+90f63fddc514	2026-11-26 Tiger Brokers（UP Fintech） Finadium 老虎证券第三季度融资及融券余额同比增长 25%.md
+396043e02386	2026-11-26 CASLA（加拿大证券借贷协会） Finadium CASLA 2026 年论坛见闻：为加拿大证券融资带来实际效益.md
