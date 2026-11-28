@@ -285,3 +285,7 @@ fac55484a9d1	2026-11-26 FCA Regulation Tomorrow FCA 第 26 25 号政策声明：
 a2c2b59e4c0f	2026-11-26 CME Group NYSE Markets Media 美国交易所处理量创纪录.md
 90f63fddc514	2026-11-26 Tiger Brokers（UP Fintech） Finadium 老虎证券第三季度融资及融券余额同比增长 25%.md
 396043e02386	2026-11-26 CASLA（加拿大证券借贷协会） Finadium CASLA 2026 年论坛见闻：为加拿大证券融资带来实际效益.md
+235b6d8a73b9	2026-11-27 欧盟委员会 Regulation Tomorrow 欧盟委员会提议推迟修订 Implementing Regulati.md
+f26091b1c96a	2026-11-27 SRB Regulation Tomorrow 单一处置委员会（SRB）发布 2027 年工作计划.md
+d2985e457905	2026-11-28 FCA 演讲：网络韧性——在威胁演变中建立信心.md
+d3478f7b3ae0	2026-11-27 CloudMargin Risk.net Risk Awards 2027 年度抵押品管理与优化产品：CloudMar.md
